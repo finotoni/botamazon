@@ -8,8 +8,7 @@ PRODUCT_URLS = [
     "https://www.amazon.es/dp/B0F2J4SYJ2"   # Producto 2
 ]
 CHECK_INTERVAL = 3600  # Tiempo en segundos (1 hora)
-TELEGRAM_BOT_TOKEN = "7309356700:AAFDeZDBwpCNaa_uv_g20ULTpNLp3KYFmaw"
-TELEGRAM_CHAT_ID = "478550509"
+
 
 # Frases que indican disponibilidad o preventa
 AVAILABLE_PHRASES = [
